@@ -1,0 +1,19 @@
+{
+  "name": "ouanalyse-jquery-reveal",
+  "version": "1.0.0",
+  "description": "jQuery Reveal Plugin",
+  "main": "jquery.reveal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouanalyse/reveal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouanalyse/reveal/issues"
+  },
+  "homepage": "https://github.com/ouanalyse/reveal#readme"
+}
